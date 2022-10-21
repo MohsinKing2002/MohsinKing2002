@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 This is Mohsin King
+
+### Skills
+Fullstack MERN Developer
+C++ Programmer
+
+
+
 
 <!--
 **MohsinKing2002/MohsinKing2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
