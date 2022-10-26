@@ -13,19 +13,19 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/md-mohsin-raja-628370244" target="_blank">
-    <img height="40" width="40" margin="0 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="">
+    <img height="40" width="40" margin="0 30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="">
 </a>
 
 <a href="https://leetcode.com/MohsinRaja2002/" target="_blank">
-    <img height="40" width="40" margin="0 10px" src="https://user-images.githubusercontent.com/32040901/79929570-197c2480-8414-11ea-9358-c92a53916a7f.png" alt="">
+    <img height="40" width="40" margin="0 30px" src="https://user-images.githubusercontent.com/32040901/79929570-197c2480-8414-11ea-9358-c92a53916a7f.png" alt="">
 </a>
 
 <a href="https://auth.geeksforgeeks.org/user/mohsinking2002/practice" target="_blank">
-    <img height="40" width="40" margin="0 10px" src="http://www.geeksforgeeks.org/wp-content/uploads/gfg_200X200-1.png" alt="">
+    <img height="40" width="40" margin="0 30px" src="http://www.geeksforgeeks.org/wp-content/uploads/gfg_200X200-1.png" alt="">
 </a>
 
 <a href="https://www.codingninjas.com/codestudio/profile/4abf7a98-bea0-4877-8221-6105d837a7d0" target="_blank">
-    <img src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/1323/original/Coding_Ninjas_logo.jpeg" alt="coding ninja's profile" height="40" width="40" margin="0 10px">
+    <img src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/1323/original/Coding_Ninjas_logo.jpeg" alt="coding ninja's profile" height="40" width="40" margin="0 30px">
 </a>
 
 </p>
