@@ -38,4 +38,4 @@
 <p><img align="center" height="400" width="480" src="https://res.cloudinary.com/dseldmvfp/image/upload/v1666327805/posts/Untitled_design_f7vyfe.png" alt="statistics" /></p>
 
 <h3 align="left">Contribution:</h3>
-[![@mohsinking2002's Holopin board](https://holopin.me/mohsinking2002)](https://holopin.io/@mohsinking2002)
+<a href="https://holopin.io/@mohsinking2002" target="_blank" rel="noreferrer"> @mohsinking2002's Holopin board </a>
