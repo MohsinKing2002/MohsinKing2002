@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, This is Mohsin King</h1>
 
-<a href="https://git.io/typing-svg">
+<a align="center" href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+Coder;MERN+Develper;React+Native+Developer;Full+stack+Developer;CPP+Programmer;&center=true&size=30">
  </a>
  
