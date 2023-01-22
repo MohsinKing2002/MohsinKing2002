@@ -43,7 +43,7 @@
 <p><img align="center" height="400" width="540" src="https://res.cloudinary.com/dseldmvfp/image/upload/v1666327805/posts/Untitled_design_f7vyfe.png" alt="statistics" /></p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=MohsinKing2002&show_icons=true&hide_border=true&count_private=true&bg_color=0,Ef4050,Cf6561&title_color=000000&text_color=000000&icon_color=000000">
 </p>
 
