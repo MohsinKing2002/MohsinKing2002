@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, This is Mohsin King</h1>
 
 <a align="center" href="https://git.io/typing-svg">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+Coder;I'm+a+MERN+Develper;I'm+a+React+Native+Developer;I'm+a+Full+stack+Developer;I'm+a+CPP+Programmer;&center=true&size=30">
+    <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=I+am+a+Coder;I+am+a+MERN+Develper;I+am+a+React+Native+Developer;I+am+a+Full+stack+Developer;I+am+a+CPP+Programmer;&center=true&size=30">
  </a>
  
 <h3 align="center">A passionate full stack developer</h3>
@@ -41,6 +41,11 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 <p><img align="center" height="400" width="540" src="https://res.cloudinary.com/dseldmvfp/image/upload/v1666327805/posts/Untitled_design_f7vyfe.png" alt="statistics" /></p>
+
+<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+    <img src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=MohsinKing2002&show_icons=true&hide_border=true&count_private=true&bg_color=0,Ef4050,Cf6561&title_color=000000&text_color=000000&icon_color=000000">
+</p>
 
 <h3 align="left">Contribution:</h3>
 <a href="https://holopin.io/@mohsinking2002" target="_blank" rel="noreferrer"> @mohsinking2002's Holopin board </a>
