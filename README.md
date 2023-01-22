@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, This is Mohsin King</h1>
+
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm a Coder + MERN Develper + React Native Developer + Full stack Developer + C++ Programmer;&center=true&size=30">
+ </a>
+ 
 <h3 align="center">A passionate full stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif" />
 
