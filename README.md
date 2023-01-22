@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, This is Mohsin King</h1>
 
 <a align="center" href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+Coder;MERN+Develper;React+Native+Developer;Full+stack+Developer;CPP+Programmer;&center=true&size=30">
+    <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+Coder;I'm+a+MERN+Develper;I'm+a+React+Native+Developer;I'm+a+Full+stack+Developer;I'm+a+CPP+Programmer;&center=true&size=30">
  </a>
  
 <h3 align="center">A passionate full stack developer</h3>
